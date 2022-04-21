@@ -40,6 +40,8 @@
 
 ### Data Structures and Algorithms
 
+- [Striver SDE Sheet - DSA Problem List (section wise) for Interviews](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+
 ---
 
 ### Networking
