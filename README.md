@@ -28,7 +28,7 @@
 
 - [Striver Core Sheet (DBMS, OS and Networking Important Questions)](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 - [Striver Core Sheet InDepth Solutions](https://docs.google.com/document/d/1snqxfm3Zql32ADWQ55dcKxsd2sqFzsEx0LQgQNk_bjI/edit)
-
+- [Company Wise Interview Experience/Questions](https://github.com/realabbas/big-companies-interview-questions)
 ---
 
 ### Database Management System
