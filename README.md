@@ -1,6 +1,6 @@
 # Interview Preparation Resources
 
-> Click :star:if you like the project. Follow me [@Bihan001](https://twitter.com/Bihan001) for technical updates.
+> Click :star: if you like the project. Follow me [@Bihan001](https://twitter.com/Bihan001) for technical updates.
 
 > Pull Requests are highly appreciated. Feel free to add new topics or contribute to the existing ones.
 
