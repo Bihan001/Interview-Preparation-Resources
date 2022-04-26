@@ -21,6 +21,7 @@
 | 9   | [Backend](#backend)                                               |
 | 10  | [Frontend](#frontend)                                             |
 | 11  | [Java](#java)                                                     |
+| 12  | [C / C++](#cpp)                                                   |
 
 ---
 
@@ -29,6 +30,7 @@
 - [Striver Core Sheet (DBMS, OS and Networking Important Questions)](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 - [Striver Core Sheet InDepth Solutions](https://docs.google.com/document/d/1snqxfm3Zql32ADWQ55dcKxsd2sqFzsEx0LQgQNk_bjI/edit)
 - [Company Wise Interview Experience/Questions](https://github.com/realabbas/big-companies-interview-questions)
+
 ---
 
 ### Database Management System
@@ -52,12 +54,14 @@
 ### Operating System
 
 - [Operating System pLaylist](https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+
 ---
 
 ### Javascript
 
 - [35 Important Interview Questions and Answers | Video](https://www.youtube.com/watch?v=Zb4dPi7CANU)
 - [400+ Interview Questions and Answers | Article](https://github.com/sudheerj/javascript-interview-questions)
+- [Namaste Javascript Notes | Article ](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
 
 ---
 
@@ -76,3 +80,11 @@
 ---
 
 ### Java
+
+---
+
+### C / C++
+
+- [PONTER](https://www.geeksforgeeks.org/pointers-c-examples/)
+  - [Mcq on C/C++ Pointers ](https://www.geeksforgeeks.org/c-language-2-gq/pointers-gq/)
+  - [Output on C Program Practise ](https://www.geeksforgeeks.org/output-of-a-program-set-1/)
