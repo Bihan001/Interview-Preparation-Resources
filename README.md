@@ -34,7 +34,8 @@
 ---
 
 ### Database Management System
-
+- [InterviewBit DBMS SQL questions and notes](https://www.interviewbit.com/courses/databases/topics/sql-queries/)
+- [Codestudio DBMS guided path](https://www.codingninjas.com/codestudio/guided-paths/dbms-database-management-systems)
 ---
 
 ### Object Oriented Programming
