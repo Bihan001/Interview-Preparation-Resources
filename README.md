@@ -63,7 +63,8 @@
 - [35 Important Interview Questions and Answers | Video](https://www.youtube.com/watch?v=Zb4dPi7CANU)
 - [400+ Interview Questions and Answers | Article](https://github.com/sudheerj/javascript-interview-questions)
 - [Namaste Javascript Notes | Article ](https://alok722.github.io/namaste-javascript-notes/dist/lectures.html)
-
+- [Namaste Javascript Playlist](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [Javascript Core Fundamentals](https://youtube.com/playlist?list=PLlasXeu85E9eLVlWFs-nz5PKXJU4f7Fks)
 ---
 
 ### React
