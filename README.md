@@ -90,3 +90,4 @@
 - [PONTER](https://www.geeksforgeeks.org/pointers-c-examples/)
   - [Mcq on C/C++ Pointers ](https://www.geeksforgeeks.org/c-language-2-gq/pointers-gq/)
   - [Output on C Program Practise ](https://www.geeksforgeeks.org/output-of-a-program-set-1/)
+- [All Subject Interview Question ](https://www.javatpoint.com/cpp-interview-questions)
